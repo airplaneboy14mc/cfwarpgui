@@ -1,4 +1,4 @@
-# Cloudflare Warp CLI GUI
+# Cloudflare Warp GUI
 GUI application to connect to the Cloudflare WARP VPN
 
 
